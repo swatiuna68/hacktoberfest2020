@@ -1,0 +1,2 @@
+gcloud iam service-accounts keys create key.json \
+>     --iam-account=cloud-sql-proxy@qwiklabs-gcp-01-33dd55e9bd93.iam.gserviceaccount.com
